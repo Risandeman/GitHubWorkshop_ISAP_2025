@@ -9,3 +9,4 @@ head(puffin)
 model1 <- lm(sex~curlen,data=Puffin)
 summary(model1)
 
+#look at table
